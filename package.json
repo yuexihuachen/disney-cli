@@ -1,0 +1,22 @@
+{
+  "name": "disney-cli",
+  "version": "1.0.0",
+  "description": "common scripts ",
+  "main": "index.ts",
+  "scripts": {
+    "start": "node index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yuexihuachen/disney-cli.git"
+  },
+  "keywords": [
+    "cli"
+  ],
+  "author": "longwang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yuexihuachen/disney-cli/issues"
+  },
+  "homepage": "https://github.com/yuexihuachen/disney-cli#readme"
+}
